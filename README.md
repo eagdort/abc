@@ -15,3 +15,4 @@ git remote -v
 git remote add dudin-ratmir https://github.com/eagdort/dudin-ratmir
 git push dudin-ratmir
 ```
+- После окончания собеседования сделать именной репозиторий приватным
